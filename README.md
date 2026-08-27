@@ -28,6 +28,4 @@ Desenvolvido e organizado por [Kauan Cardim](https://github.com/Kahcardim).
 
 ## Acessar o projeto
 
-Após a ativação do GitHub Pages, o menu estará disponível em:
-
 https://kahcardim.github.io/dorus-menu-digital/
